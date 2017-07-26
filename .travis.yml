@@ -3,7 +3,7 @@ deploy:
   provider: s3
   bucket: www.prestigecoach.net
   endpoint: www.prestigecoach.net.s3-website.us-east-2.amazonaws.com
-  region: us-east-1
+  region: us-east-2
   skip_cleanup: true
 env:
   global:
