@@ -1,0 +1,7 @@
+deploy:
+  - provider: s3
+    access_key_id: "AKIAITSR3HD2NXLJUFRQ"
+    secret_access_key: "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"
+    bucket: "pretigecoach.net"
+    skip_cleanup: true
+    
