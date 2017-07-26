@@ -1,8 +1,7 @@
 language: generic
 deploy:
   provider: s3
-  endpoint: "prestigecoach.net.s3-website.us-east-2.amazonaws.com"
-  region: "us-east-2"
+  bucket: "prestigecoach.net"
   skip_cleanup: true
 env:
   global:
