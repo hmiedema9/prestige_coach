@@ -1,7 +1,7 @@
 language: generic
 deploy:
   provider: s3
-  bucket: pretigecoach.net
+  bucket: prestigecoach.net
   skip_cleanup: true
 env:
   global:
