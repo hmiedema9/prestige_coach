@@ -5,6 +5,7 @@ deploy:
   endpoint: prestigecoach.net.s3-website.us-east-2.amazonaws.com
   region: us-east-2
   skip_cleanup: true
+  local_dir: www
 env:
   global:
   - secure: g6rv1HY7kGUplW8R2X6yzgwa+jVhL9D6h+942eCE4ZMX1A8U5K5QcjzLbul+SOIsamBG259Mpyi+CWuxdMl/A0G7d3s/aFW+NCJsdZ3ArIarz44q32T/grlDhLPhvor08aMi1gg+ed352Qd0AS8MwHTET47h3EtMCfcz9AWc37vXWH0y+EHY/DC7pUfGTeQ1qpD3LA5E1woizZ/shQOmdp6Yhz8nBxNuee2W6auBag/TYjXKJHlll4rcXAMqnAUGAOAY2KFDILi5q61dH5RXgPfQ4aJt/lC+SFfnVssHTfAiGJs9nGZO71LXI7JO9PMAmr0zSyIgCwOFMZdnm9VmF0lOgufB7u8SyUyiw6cJS17PgaamgVh0IXPpEF4yOZszeOODVssb6A9BVhGzY28ZLv5A++f/MqYpZmrw5O+MDx7lLuI+frow14AGA7w7N6Bja+QsYRb68FgbN8cxSgrUdBSR1xS7aZIjosTuAkJ08vT89VoKSUjvduRFtdqRJdCY2LgicOXpLka2yEQOrYC28QteYzt+sDi8MWymRYfulcEsDud80cGjEteV5NowA8zO75sLEDEyUGWR2p8LOQXyJAk4I7hDhUWYwoQ04o8EMjvSZ1XNUYlh6nF2GPNkY9h747v7RaN0Qrjbhk5+CimY2Y3O/i2Xk/kPio5+qJ3mKaM=
