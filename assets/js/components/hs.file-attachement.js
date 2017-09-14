@@ -104,7 +104,7 @@
           },
           dragDrop: {},
           uploadFile: {
-            url: '../../../assets/include/php/file-upload/upload.php',
+            url: '../../../../assets/include/php/file-upload/upload.php',
             data: {},
             type: 'POST',
             enctype: 'multipart/form-data',
